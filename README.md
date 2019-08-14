@@ -4,13 +4,13 @@
 
 ## Sketch
 
-![Telegram Bot](http://github.com/ettorestark/arduino-and-telegram-bot/blob/assets/sketch.jpg)
+![Telegram Bot](https://github.com/ettorestark/arduino-and-telegram-bot/blob/master/assets/sketch.jpg)
 
 ## Screenshots
 
 ### Telegram 
 
-![Telegram Bot](http://github.com/ettorestark/arduino-and-telegram-bot/blob/assets/telegram.jpg)
+![Telegram Bot](https://github.com/ettorestark/arduino-and-telegram-bot/blob/master/assets/telegram.jpg)
 
 Made with ❤ by [Ettore Stark](http://github.com/ettorestark)
 
